@@ -4,7 +4,7 @@
 
 **Design → Web → AI-Native Apps: End-to-end product builder**
 
-*Good products die in the seam between design and engineering. I build both halves so the seam doesn't exist.*
+*Good products die in the seam between design and engineering. We build both halves so the seam doesn't exist.*
 
 [![Email](https://img.shields.io/badge/Email-info%40oraclestudios.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@oraclestudios.io)
 
@@ -14,29 +14,45 @@
 
 ## About
 
-Product builder across the full surface of modern digital work — pixel-level design through deployed, AI-powered native apps. Same hands on the Figma file, the Next.js code, the iOS build, and the AWS deployment. End-to-end, solo, production-grade.
+**Oracle Studios** — a four-person senior team based in Paphos, Cyprus, with partners in the US and UK. Founding partner at [Light Brands](https://www.lightbrands.ai/), building AI-native products alongside that same US/UK network.
 
-Started in pure design. **Figma**, **Adobe XD** — digital experiences, websites, landing pages. **Webflow** opened the door to code: HTML, CSS, and JavaScript turned static comps into real web apps.
+Every discipline on one team: design, web, native iOS, infrastructure, AI integration, production. The seam doesn't exist because the people who would normally hand off to each other sit in the same room. Large-agency output without the agency overhead or the handoff tax.
 
-AI tooling changed the trajectory. The stack I could reach for collapsed overnight — **Next.js** and **TypeScript** for web, **Capacitor** and native **iOS** for mobile, **Python** for services, **Docker** and **AWS** for infra, **Git** as the connective tissue. What used to need a team ships solo, faster, with no translation loss between roles.
+The path: pure design in **Figma** and **Adobe XD**, then code through **Webflow**, then AI tooling that rewrote what a small senior team could ship. Today's stack runs deep — **Next.js** and **TypeScript** for web, **Capacitor** and native **iOS** for mobile, **Python** for services, **Docker** and **AWS** for infra. Concept to production, under one roof.
 
-I run **Oracle Studios** (Paphos, Cyprus) — agency for client work — and build SaaS products in parallel.
+## Industries We Work Across
 
-## Selected Work
+**Hospitality.** Booking flows, event operations, guest-facing portals. Front-of-house conversion paired with back-of-house tooling operators actually use — instead of abandoning for spreadsheets a month after launch.
 
-**MindFlow — AI-native business OS.** Small businesses run a dozen disconnected tools; AI features stay trapped per-silo. Built a unified Node architecture where every object — contact, task, note, deal, doc — is a node in one graph, and AI operates across the whole system instead of one module at a time. In active build.
+**Real estate & property development.** Development brand identity, project microsites, sales-pipeline tools, off-plan visualization. Work that lands equally well in a show-unit walkthrough and an investor deck.
 
-**VIBEUP — social wellness & discovery.** Wellness apps are either solo tracking or generic social feeds — neither helps you find people and places worth showing up for. Shipped the native iOS MVP end-to-end: design through TestFlight, solo. Live with early users.
+**Wellness & healthcare.** Patient-facing apps, booking and intake systems, practitioner dashboards. Clinical UX standards without clinical-software ugliness — brand-grade design on top of regulated plumbing.
 
-**EventPro — event operations for hospitality.** Hotels running events juggle spreadsheets and email threads; no off-the-shelf tool covers bookings, rooming, timelines, and client handover properly. Built and deployed the platform — live at [events.anemihotel.com](https://events.anemihotel.com). In production for Anemi Hotel & Suites.
+**Architecture & design studios.** Portfolio sites, project archives, studio brand systems. Built for studios who care about typography and image treatment as much as the architecture itself — the kind their clients end up asking about.
 
-**AdScreen — DOOH with real impression data.** Outdoor digital advertising still sells on estimated footfall; advertisers can't verify who actually saw the screen. Built an edge device — Raspberry Pi 5 + Hailo-8L — running on-device computer vision to verify impressions (anonymized, no PII stored), piped to an ad-ops dashboard. Prototype deployed.
+**Restaurants & hospitality F&B.** Ordering, reservations, menu systems, loyalty. Web and mobile touchpoints that match the venue's design language instead of fighting it.
 
-**Oracle Studios client work.** Ongoing agency delivery across hospitality, real estate, wellness, and F&B: Anemi Hotel & Suites, Aristo Developers, RE-FYZIO, Arch² Studio, Momo Asian Kitchen Bar.
+**Fitness.** Studio and gym booking, coach-facing programming tools, member apps. Built for repeat use — the apps members actually open three times a week, not once.
 
-## How I Work
+**AI-native SaaS.** From blank page to production. Architectures that assume AI agents are first-class citizens — unified data graphs, agent-safe tool interfaces, evals from day one. For founders building vertical SaaS that won't feel dated in eighteen months.
 
-- **One person, full stack.** Same hands on design, code, deploy. No handoffs, no translation loss.
+## Production & Content Pipeline
+
+Most creative shops either shoot or generate. We do both, and integrate them.
+
+Our pipeline starts with real footage captured on cinema bodies — actual locations, actual light, actual optics. Then AI does what AI is good at: photorealistic model creation, scene population, and brand-consistent character work that holds its identity across an entire campaign. Not a new face every frame. Not "close enough in the hero, off in the detail shot." The same cast, the same product, the same environment, stretched across every deliverable the brief requires.
+
+What this unlocks:
+
+- **Architectural renders that feel lived-in.** Real spaces populated with AI-generated people who stay consistent across hero shots, lifestyle frames, and close detail crops. The space reads as used, not rendered.
+- **Lifestyle and brand content at scale.** A full campaign's worth of variation — different environments, framings, wardrobe, scenarios — with one continuous cast. No second shoot. No recast. No continuity breaking at frame forty-seven.
+- **Product integrations that look shot, not composited.** Environmental adaptation and placement that survives the kind of close inspection that usually kills AI work.
+
+This is the gap most creative work falls into. Pure VFX studios don't turn around brand work at this cadence. Pure AI shops can't match the grounding that real camera footage provides. We sit between the two, and the outputs reflect it.
+
+## How We Work
+
+- **Small senior team, full stack.** Design, code, deploy — same team, one room. No handoffs, no translation loss.
 - **AI where it earns its place.** Integrated when it makes the product better — not bolted on for show.
 - **Systems over ad hoc.** One good abstraction beats ten patches.
 - **Specificity over vibes.** Real constraints, real metrics, real deadlines. Taste calibrated by shipping.
@@ -57,9 +73,9 @@ Most engagements fall into one of four shapes:
 
 **Design handed off, now ship it properly.** A real, responsive, performant build — not a prototype that collapses on mobile. Comfortable picking up from Figma, XD, or a napkin sketch and owning it through production.
 
-**AI-native product from zero.** Web, iOS, or both. Full loop: product thinking → design → implementation → deploy. AI gets integrated where it's pulling weight, not bolted on for a pitch deck.
+**AI-native product from zero.** Web, iOS, or both. Full loop: product thinking → design → implementation → deploy. AI integrated where it's pulling weight, not bolted on for a pitch deck.
 
-**Founder-mode full product.** Early-stage work where hiring a designer and a full-stack engineer separately isn't realistic. I collapse coordination cost to zero because there is no coordination.
+**One partner covering design + engineering + production.** Early-stage or growth-stage work where splitting a brief across a design agency, a dev shop, a production house, and a PM is where projects go to die. Small senior team, one accountable point of contact.
 
 **Native iOS, not a wrapped webview.** App Store-grade iOS builds with the right architecture — or a Capacitor hybrid if that's the correct call for your roadmap.
 
@@ -71,8 +87,4 @@ Email **info@oraclestudios.io** with three lines:
 2. When it needs to ship.
 3. What you've already tried.
 
-Response within 48 hours.
-
----
-
-*Cinematography on Sony FX3, architectural design, trading systems.*
+We respond within 48 hours.
