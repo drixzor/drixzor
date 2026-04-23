@@ -1,80 +1,78 @@
- <div align="center">
+<div align="center">
 
-  # Andreas Demou
+# Andreas Demou
 
-  **Design → Web → AI-Native Apps: End-to-end product builder**
+**Design → Web → AI-Native Apps: End-to-end product builder**
 
-  *Good products die in the seam between design and engineering. I build both halves so the seam doesn't exist.*
+*Good products die in the seam between design and engineering. I build both halves so the seam doesn't exist.*
 
-  [![Email](https://img.shields.io/badge/Email-info%40oraclestudios.io-EA4335?style=for-the-badge&logo=gmail&logoColor=w
-  hite)](mailto:info@oraclestudios.io)
+[![Email](https://img.shields.io/badge/Email-info%40oraclestudios.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@oraclestudios.io)
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## About
+## About
 
-  Product builder operating across the full surface of modern digital work — from pixel-level interface design through
-  to deployed, AI-powered native applications. The same hands do the Figma file, the Next.js code, the iOS build, and
-  the AWS deployment. End-to-end, solo, production-grade.
+Product builder across the full surface of modern digital work — pixel-level design through deployed, AI-powered native apps. Same hands on the Figma file, the Next.js code, the iOS build, and the AWS deployment. End-to-end, solo, production-grade.
 
-  The journey started in pure design. **Figma** and **Adobe XD** — crafting digital experiences, websites, and landing
-  pages. The move to **Webflow** opened the door to code: HTML, CSS, and JavaScript became the medium for bringing
-  static comps to life as real web apps and sites. That was the first seam between design and engineering to close.
+Started in pure design. **Figma**, **Adobe XD** — digital experiences, websites, landing pages. **Webflow** opened the door to code: HTML, CSS, and JavaScript turned static comps into real web apps.
 
-  The arrival of capable AI tooling changed the trajectory entirely. Becoming an AI power user collapsed the stack I
-  could reach for: **Next.js** and **TypeScript** for web product, **Capacitor** and native **iOS** for mobile,
-  **Python** for services and automation, **Docker** and **AWS** for infrastructure, **Git** as the connective tissue.
-  What used to require a team ships solo — faster, with zero translation losses between roles.
+AI tooling changed the trajectory. The stack I could reach for collapsed overnight — **Next.js** and **TypeScript** for web, **Capacitor** and native **iOS** for mobile, **Python** for services, **Docker** and **AWS** for infra, **Git** as the connective tissue. What used to need a team ships solo, faster, with no translation loss between roles.
 
-  Today I build full native iOS apps, AI-powered app systems, and production web products — concept to ship.
+I run **Oracle Studios** (Paphos, Cyprus) — agency for client work — and build SaaS products in parallel.
 
-  ## When to Reach Out
+## Selected Work
 
-  Most engagements fall into one of four shapes:
+**MindFlow — AI-native business OS.** Small businesses run a dozen disconnected tools; AI features stay trapped per-silo. Built a unified Node architecture where every object — contact, task, note, deal, doc — is a node in one graph, and AI operates across the whole system instead of one module at a time. In active build.
 
-  **Design handed off, now ship it properly.** A real, responsive, performant build — not a prototype that collapses on
-  mobile. Comfortable picking up from Figma, XD, or a napkin sketch and owning it through production.
+**VIBEUP — social wellness & discovery.** Wellness apps are either solo tracking or generic social feeds — neither helps you find people and places worth showing up for. Shipped the native iOS MVP end-to-end: design through TestFlight, solo. Live with early users.
 
-  **AI-native product from zero.** Web, iOS, or both. I run the full loop: product thinking → design → implementation →
-  deploy. AI gets integrated where it earns its place, not bolted on for a pitch deck.
+**EventPro — event operations for hospitality.** Hotels running events juggle spreadsheets and email threads; no off-the-shelf tool covers bookings, rooming, timelines, and client handover properly. Built and deployed the platform — live at [events.anemihotel.com](https://events.anemihotel.com). In production for Anemi Hotel & Suites.
 
-  **Founder-mode full product.** Early-stage work where hiring both a designer and a full-stack engineer isn't
-  realistic. I collapse coordination cost to zero because there is no coordination.
+**AdScreen — DOOH with real impression data.** Outdoor digital advertising still sells on estimated footfall; advertisers can't verify who actually saw the screen. Built an edge device — Raspberry Pi 5 + Hailo-8L — running on-device computer vision to verify impressions (anonymized, no PII stored), piped to an ad-ops dashboard. Prototype deployed.
 
-  **Native iOS, not a wrapped webview.** App Store-grade iOS builds with the right architecture — or a Capacitor hybrid
-  if that's the correct call for your roadmap.
+**Oracle Studios client work.** Ongoing agency delivery across hospitality, real estate, wellness, and F&B: Anemi Hotel & Suites, Aristo Developers, RE-FYZIO, Arch² Studio, Momo Asian Kitchen Bar.
 
-  If any of that fits, [email me](mailto:info@oraclestudios.io) with a short description of the problem and the
-  constraints.
+## How I Work
 
-  ## Core Technologies
+- **One person, full stack.** Same hands on design, code, deploy. No handoffs, no translation loss.
+- **AI where it earns its place.** Integrated when it makes the product better — not bolted on for show.
+- **Systems over ad hoc.** One good abstraction beats ten patches.
+- **Specificity over vibes.** Real constraints, real metrics, real deadlines. Taste calibrated by shipping.
+- **Ship, then iterate.** Real users are the only honest feedback loop.
 
-  **Design**
+## Stack
 
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-  ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+- **Design** — Figma · Adobe XD · Webflow
+- **Web** — Next.js 15 · TypeScript · Tailwind v4 · Framer Motion · React
+- **Mobile** — Capacitor · native iOS (Xcode) · Swift
+- **Backend & data** — Node · Python · Supabase · PostgreSQL
+- **Infra** — Docker · Vercel · Hetzner + Coolify · Cloudflare · AWS
+- **Daily driver** — Claude Code
 
-  **Web & Frontend**
+## When to Reach Out
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+Most engagements fall into one of four shapes:
 
-  **Mobile**
+**Design handed off, now ship it properly.** A real, responsive, performant build — not a prototype that collapses on mobile. Comfortable picking up from Figma, XD, or a napkin sketch and owning it through production.
 
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-  ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+**AI-native product from zero.** Web, iOS, or both. Full loop: product thinking → design → implementation → deploy. AI gets integrated where it's pulling weight, not bolted on for a pitch deck.
 
-  **Backend & Infra**
+**Founder-mode full product.** Early-stage work where hiring a designer and a full-stack engineer separately isn't realistic. I collapse coordination cost to zero because there is no coordination.
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Native iOS, not a wrapped webview.** App Store-grade iOS builds with the right architecture — or a Capacitor hybrid if that's the correct call for your roadmap.
+
+---
+
+Email **info@oraclestudios.io** with three lines:
+
+1. What you're building.
+2. When it needs to ship.
+3. What you've already tried.
+
+Response within 48 hours.
+
+---
+
+*Cinematography on Sony FX3, architectural design, trading systems.*
