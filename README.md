@@ -6,6 +6,8 @@
 
 *Good products die in the seam between design and engineering. We build both halves so the seam doesn't exist.*
 
+[![Oracle Studios](https://img.shields.io/badge/Oracle%20Studios-oraclestudios.io-0A0A0A?style=for-the-badge&logoColor=white)](https://oraclestudios.io)
+[![Light Brands](https://img.shields.io/badge/Light%20Brands-lightbrands.ai-6B46C1?style=for-the-badge&logoColor=white)](https://www.lightbrands.ai/)
 [![Email](https://img.shields.io/badge/Email-info%40oraclestudios.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@oraclestudios.io)
 
 </div>
@@ -60,12 +62,45 @@ This is the gap most creative work falls into. Pure VFX studios don't turn aroun
 
 ## Stack
 
-- **Design** — Figma · Adobe XD · Webflow
-- **Web** — Next.js 15 · TypeScript · Tailwind v4 · Framer Motion · React
-- **Mobile** — Capacitor · native iOS (Xcode) · Swift
-- **Backend & data** — Node · Python · Supabase · PostgreSQL
-- **Infra** — Docker · Vercel · Hetzner + Coolify · Cloudflare · AWS
-- **Daily driver** — Claude Code
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+
+**Web**
+
+![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind v4](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Mobile**
+
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B46C1?style=for-the-badge&logo=coolify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Daily Driver**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ## When to Reach Out
 
